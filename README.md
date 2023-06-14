@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hades
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on C++ Projects
 - 📫 How to reach me: abhinavtaya@gmail.com
 
